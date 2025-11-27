@@ -1,3 +1,2 @@
-# Effects of Aluminum Doping on the Thermal Transport of Gallium Oxide: A Non-Equilibrium Molecular Dynamics Study with a Neural Network Potential
-
+# Machine learning potential (NEP) for lattice dynamics simulations in Ga₂₋₂ₓAl₂ₓO₃
 Email: tonghua@mail.hnust.edu.cn
